@@ -1,0 +1,6 @@
+browser_ui_settings: true
+iot_attach_principal_policy: true
+iot_attach_thing_principal: true
+iot_cert_settings: true
+robomaker_settings: true
+sample_app_settings: true
